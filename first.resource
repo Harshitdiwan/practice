@@ -9,7 +9,7 @@ login
     Create Webdriver     Chrome
     Maximize Browser Window
     Go To    https://www.amazon.in/
-    Sleep    10s  
+    Sleep    20s
 
 Search
     Wait Until Element Is Visible    //*[@aria-label='Search Amazon.in']    10s
